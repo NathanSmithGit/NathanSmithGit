@@ -46,8 +46,3 @@ I’m especially excited by companies working on gaming technology, AI products,
 Python | SQL | Machine Learning | Data Engineering | Analytics
 Pandas | scikit-learn | Streamlit | FastAPI | React | TypeScript
 Dashboards | ETL | Experimentation | Product Metrics | AI Tools
-
-<!---
-NathanSmithGit/NathanSmithGit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
