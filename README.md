@@ -46,11 +46,10 @@ I’m especially excited by companies working on gaming technology, AI products,
 Python | SQL | Machine Learning | Data Engineering | Analytics
 Pandas | scikit-learn | Streamlit | FastAPI | React | TypeScript
 Dashboards | ETL | Experimentation | Product Metrics | AI Tools
-'''
+```
 
 Connect
 
 Feel free to reach out if you’re hiring, collaborating on a project, or working on something interesting in data, AI, analytics, or software.
 
 https://www.linkedin.com/in/nathan-s-96b8a8106/
-
