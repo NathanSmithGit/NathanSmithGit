@@ -48,7 +48,7 @@ Pandas | scikit-learn | Streamlit | FastAPI | React | TypeScript
 Dashboards | ETL | Experimentation | Product Metrics | AI Tools
 ```
 
-Connect
+## Connect
 
 Feel free to reach out if you’re hiring, collaborating on a project, or working on something interesting in data, AI, analytics, or software.
 
